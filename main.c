@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowPosition(200, 200);
     glutInitWindowSize(700, 700);
-    glutCreateWindow("AM19133");
+    glutCreateWindow("Linea Recta");
     glClearColor(1, 1, 1, 1);
     glutDisplayFunc(display);
     glutMainLoop();
