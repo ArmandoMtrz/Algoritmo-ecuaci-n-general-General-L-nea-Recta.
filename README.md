@@ -1,1 +1,2 @@
-# Algoritmo-ecuaci-n-general-General-L-nea-Recta.
+# Algoritmo-ecuacion-general-General-Linea-Recta.
+Codigo desarrollado en C y OpenGL para mostrar la ffigura de rectas
